@@ -1,0 +1,12 @@
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-dox;
+  scroll-behavior: smooth;
+}
+body {
+  font-size: 1.6em;
+  background: #333;
+  color: #f5f5f5;
+}
